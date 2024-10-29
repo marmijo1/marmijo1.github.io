@@ -1,0 +1,50 @@
+h1, h2{
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: center;
+    color: palevioletred;
+}
+p{
+    color: #deb1cd;
+    font-size: 23px
+}
+
+a:link{
+    color: powderblue;
+}
+a:visited{
+    color: peru;
+}
+.fa-solid{
+    font-size: 50px;
+    color:white;
+}
+.fa-github{
+    font-size: 50px;
+    color: black;
+    margin: 10px;
+}
+.fa-linkedin{
+    font-size: 50px;
+    color: #0072b1;
+    margin: 10px;
+}
+.fa-instagram{
+    font-size: 50px;
+    color:#dc07f0;
+    margin: 10px;
+}
+iframe{
+    height: 600px;
+    width: 700px;
+    border: none;
+}
+
+.iframe-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
